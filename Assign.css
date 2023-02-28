@@ -1,0 +1,18 @@
+.bgimage{
+	background-image:url('https://img.freepik.com/free-psd/abstract-background-design_1297-88.jpg?size=626&ext=jpg&ga=GA1.2.1200256483.1677144012&semt=sph');
+	background-size:cover;
+	height:80vh;
+	weight:100vw;
+}
+.bc{
+	background-color:yellow;
+	color:white;
+}
+.para{
+	padding:15px;
+}
+* {
+	color:white;
+	font-family:'robato';
+	margin:none;
+}
